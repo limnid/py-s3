@@ -1,0 +1,9 @@
+<div>
+    <hr>
+    <br>
+    Project: <b>${project}</b> <br>
+    Files: <b>${count}</b> <br>
+    Size: <b>${size}</b> <br>
+    Date: <b>${date}</b> <br>
+    <br>
+</div>

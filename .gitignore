@@ -1,0 +1,32 @@
+*.egg-info
+*.log
+*.pid
+*.pyc
+*.pyo
+*.sublime-workspace
+*.sublime-project
+*.coverage
+*.mo
+.pytest_cache
+*__pycache__
+
+.webassets-cache
+celerybeat-schedule
+celerybeat-*
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+alloservice/config/local.py
+.buildpath
+.project
+.settings
+migrate.json
+migrations/migrations.sql
+dist
+build
+allopid
